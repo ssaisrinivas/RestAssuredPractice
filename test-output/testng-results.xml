@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-29T17:38:51 IST" name="Default suite" finished-at="2024-07-29T17:38:51 IST" duration-ms="365">
+    <groups>
+    </groups>
+    <test started-at="2024-07-29T17:38:51 IST" name="Default test" finished-at="2024-07-29T17:38:51 IST" duration-ms="365">
+      <class name="com.sai.day7.FakerDataGenerator">
+        <test-method signature="testGenerateDummyData()[pri:0, instance:com.sai.day7.FakerDataGenerator@2d52216b]" started-at="2024-07-29T17:38:51 IST" name="testGenerateDummyData" finished-at="2024-07-29T17:38:51 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGenerateDummyData -->
+      </class> <!-- com.sai.day7.FakerDataGenerator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

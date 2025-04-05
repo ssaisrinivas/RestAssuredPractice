@@ -1,0 +1,10 @@
+{
+      "id": 10,
+      "name": "Siva",
+      "location": "China",
+      "phone": "165494745",
+      "courses": [
+        "HTML",
+        "RestAPI"
+      ]
+    }
